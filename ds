@@ -1,0 +1,19 @@
+Data is a collection of facts and figures or a set of values or values of a specific format that refers to a single set of item values.
+The data items are then classified into sub-items,
+which is the group of items that are not known as the simple primary form of the item.
+
+Data: We can define data as an elementary value or a collection of values. For example, the Employee's name and ID are the data related to the Employee.
+
+Data Items: A Single unit of value is known as Data Item.
+
+Group Items: Data Items that have subordinate data items are known as Group Items. For example, an employee's name can have a first, middle, and last name.
+
+Elementary Items: Data Items that are unable to divide into sub-items are known as Elementary Items. For example, the ID of an Employee.
+
+Entity and Attribute: A class of certain objects is represented by an Entity. It consists of different Attributes.
+
+Field: A single elementary unit of information symbolizing the Attribute of an Entity is known as Field.
+
+Record: A collection of different data items are known as a Record. For example, if we talk about the employee entity, then its name, id, address, and job title can be grouped to form the record for the employee.
+
+File: A collection of different Records of one entity type is known as a File. For example, if there are 100 employees, there will be 25 records in the related file containing data about each employee.
