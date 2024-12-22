@@ -1,0 +1,15 @@
+classifications of data structure
+Primitive Data Structure
+Non-Primitive Data Structure
+
+Primitive Data Structures are the data structures consisting of the numbers and the characters that come in-built into programs.
+These data structures can be manipulated or operated directly by machine-level instructions.
+Basic data types like Integer, Float, Character, and Boolean come under the Primitive Data Structures.
+These data types are also called Simple data types, as they contain characters that can't be divided further
+
+Non-Primitive Data Structures are those data structures derived from Primitive Data Structures.
+These data structures can't be manipulated or operated directly by machine-level instructions.
+The focus of these data structures is on forming a set of data elements that is either homogeneous (same data type) or heterogeneous (different data types).
+Based on the structure and arrangement of data, we can divide these data structures into two sub-categories -
+Linear Data Structures
+Non-Linear Data Structures
